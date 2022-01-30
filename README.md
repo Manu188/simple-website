@@ -1,2 +1,3 @@
 # simple-website
-https://Manu188.github.io/simple-website/web.html
+
+https://manu188.github.io/simple-website/Web.html
